@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8039",
+  "folder": "YouTube__watch_20260513232713_a35d10",
+  "base_name": "Everything_You_NEED_to_Know_Before_COTE_Season_4_Dn8c4_HOFu8_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-3/releases/tag/co-releases-v1-8039",
+  "files": [
+    {
+      "name": "Everything_You_NEED_to_Know_Before_COTE_Season_4_Dn8c4_HOFu8_480p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-3/releases/download/co-releases-v1-8039/Everything_You_NEED_to_Know_Before_COTE_Season_4_Dn8c4_HOFu8_480p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-3/releases/assets/419699203",
+      "id": 419699203,
+      "size": 43154191,
+      "download_count": 0
+    }
+  ]
+}
