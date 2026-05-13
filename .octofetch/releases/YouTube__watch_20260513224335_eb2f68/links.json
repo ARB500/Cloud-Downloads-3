@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1979",
+  "folder": "YouTube__watch_20260513224335_eb2f68",
+  "base_name": "V2ray_VPN_AohaSnH78PY_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-3/releases/tag/co-releases-v1-1979",
+  "files": [
+    {
+      "name": "V2ray_VPN_AohaSnH78PY_480p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-3/releases/download/co-releases-v1-1979/V2ray_VPN_AohaSnH78PY_480p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-3/releases/assets/419674718",
+      "id": 419674718,
+      "size": 56358734,
+      "download_count": 0
+    }
+  ]
+}
