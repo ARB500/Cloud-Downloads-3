@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4884",
+  "folder": "YouTube__watch_20260513233052_1b8a7d",
+  "base_name": "COMPLETE_Classroom_of_the_Elite_Season_2_Recap_in_8_MINUTES_78asxZ0Fqd0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-3/releases/tag/co-releases-v1-4884",
+  "files": [
+    {
+      "name": "COMPLETE_Classroom_of_the_Elite_Season_2_Recap_in_8_MINUTES_78asxZ0Fqd0_720p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-3/releases/download/co-releases-v1-4884/COMPLETE_Classroom_of_the_Elite_Season_2_Recap_in_8_MINUTES_78asxZ0Fqd0_720p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-3/releases/assets/419701466",
+      "id": 419701466,
+      "size": 30066081,
+      "download_count": 0
+    }
+  ]
+}
