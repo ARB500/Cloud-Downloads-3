@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7890",
+  "folder": "YouTube__watch_20260513225905_3e8f91",
+  "base_name": "_Netlify_enPMioju-V4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-3/releases/tag/co-releases-v1-7890",
+  "files": [
+    {
+      "name": "_Netlify_enPMioju-V4_720p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-3/releases/download/co-releases-v1-7890/_Netlify_enPMioju-V4_720p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-3/releases/assets/419681774",
+      "id": 419681774,
+      "size": 37102238,
+      "download_count": 0
+    }
+  ]
+}
