@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2702",
+  "folder": "YouTube__watch_20260514003430_ac3e2a",
+  "base_name": "Classroom_of_the_Elite_-_Recap_(WATCH_BEFORE_SEASON_2)_fmCpk3dxB_E_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-3/releases/tag/co-releases-v1-2702",
+  "files": [
+    {
+      "name": "Classroom_of_the_Elite_-_Recap_.WATCH_BEFORE_SEASON_2._fmCpk3dxB_E_480p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-3/releases/download/co-releases-v1-2702/Classroom_of_the_Elite_-_Recap_.WATCH_BEFORE_SEASON_2._fmCpk3dxB_E_480p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-3/releases/assets/419742881",
+      "id": 419742881,
+      "size": 27628115,
+      "download_count": 0
+    }
+  ]
+}
