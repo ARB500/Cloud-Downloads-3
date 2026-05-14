@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8225",
+  "folder": "YouTube__watch_20260514002623_3d166e",
+  "base_name": "THE_most_COMPLEX_season_Classroom_of_the_Elite_Season_3_Recap_(EVERYTH_R9-TvrISuLI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-3/releases/tag/co-releases-v1-8225",
+  "files": [
+    {
+      "name": "THE_most_COMPLEX_season_Classroom_of_the_Elite_Season_3_Recap_.EVERYTH_R9-TvrISuLI_480p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-3/releases/download/co-releases-v1-8225/THE_most_COMPLEX_season_Classroom_of_the_Elite_Season_3_Recap_.EVERYTH_R9-TvrISuLI_480p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-3/releases/assets/419738326",
+      "id": 419738326,
+      "size": 35548449,
+      "download_count": 0
+    }
+  ]
+}
